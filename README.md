@@ -16,6 +16,7 @@ A stand-in of shadowsocksr-libev-client
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth",
     "obfs_param": "baidu.com",
+    "tcp_and_udp": true,
     "fast_open": true
 }
 ```
